@@ -1,2 +1,2 @@
 # incident
-Incident Response &amp; Root Cause Analysis Assitant Bot
+Incident Response &amp; Root Cause Analysis Assistant Bot
